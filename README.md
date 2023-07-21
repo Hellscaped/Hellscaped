@@ -5,10 +5,10 @@
 <p align="center">Python 3.9, Lua, Java, C, and the Web Trio (HTML,CSS,JS) </p>
 <br>
 <h3 align="center">Some things I've made</h3>
-<h5>On my personal account</h5>
-[Socket2Web](https://github.com/Hellscap3d/Socket2Web)
-[National History Day Web Central Hacking](https://github.com/Hellscap3d/NHDWebCentral-Hacking)
-<h5>On the [VILELABS](https://github.com/VILELABS) organization<h5>
+<h5>On my personal account</h5><br>
+[Socket2Web](https://github.com/Hellscap3d/Socket2Web)<br>
+[National History Day Web Central Hacking](https://github.com/Hellscap3d/NHDWebCentral-Hacking)<br>
+<h5>On the [VILELABS](https://github.com/VILELABS) organization<h5><br>
 [css.py](https://github.com/VILELABS/css.py)
 <a href="https://github.com/Hellscap3d">
   <p align="center">
