@@ -21,10 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="GET FROM https://discord.c99.nl" />
+  <img src="https://lanyard.cnrad.dev/api/1068329310282322051" />
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Hellscaped&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
-
-![Discord Presence](https://lanyard.cnrad.dev/api/1068329310282322051)](https://discord.com/users/1068329310282322051)
