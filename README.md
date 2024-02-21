@@ -2,14 +2,14 @@
 
 <h1 align="center">I'm Hellscaped.</h1>
 <h3 align="center">Some langs I know</h3>
-<p align="center">Python 3.9, Lua, Java, C, and the Web Trio (HTML,CSS,JS) </p>
+<p align="center">Python 3, Lua, Java, and the Web Trio (HTML,CSS,JS) </p>
 <br>
 <h3 align="center">Some things I've made</h3>
 <h5>On my personal account</h5><br>
-- [Socket2Web](https://github.com/Hellscaped/Socket2Web)<br>
-- [National History Day Web Central Hacking](https://github.com/Hellscaped/NHDWebCentral-Hacking)<br>
-<h5>On the [VILELABS](https://github.com/VILELABS) organization<h5><br>
-- [css.py](https://github.com/VILELABS/css.py)
+- <a href="https://github.com/Hellscaped/Socket2Web">Socket2Web</a><br>
+- <a href="https://github.com/Hellscaped/NHDWebCentral-Hacking">National History Day Web Central Hacking</a><be>
+<h5>On the <a href="https://github.com/VILELABS">VILELABS</a> organization<h5><br>
+<a href="https://github.com/VILELABS/css.py">css.py</a><br>
 <a href="https://github.com/Hellscaped">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Hellscaped" alt="Profile Views">
